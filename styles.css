@@ -1,0 +1,32 @@
+.custom {
+    background-color: #000000;
+    color:white;
+}
+
+.font-color{
+    color:gold;
+    background-color: #000000;
+
+}
+
+#imagesize {
+    width: 20%;
+    height: 30%;
+}
+
+.top {
+    position: initial;
+    background-color: rgb(0, 0, 0);
+    padding: 20px;
+ 
+}
+.right {
+    position: initial;
+    background-color: rgb(162, 202, 206);
+    padding: 20px;
+ 
+}
+
+.spacing {
+    margin-bottom: 100px;
+}
